@@ -10,8 +10,8 @@
 - [comparison-isolation-forest.ipynb](./comparison-isolation-forest.ipynb)
 
 ## Effects of feature count
-- [feature-count-effects - (method - feature selection).ipynb](./feature-count-effects - (method - feature selection).ipynb)
-- [feature-count-effects - (method - remove corr).ipynb](./feature-count-effects - (method - remove corr).ipynb)
+- [feature-count-effects-feature-selection.ipynb](./feature-count-effects-feature-selection.ipynb)
+- [feature-count-effects-remove-corr.ipynb](./feature-count-effects-remove-corr.ipynb)
 
 ## Epilogiphase
 - [remove-corr-feature-selection.ipynb](./remove-corr-feature-selection.ipynb)
