@@ -1,7 +1,7 @@
 # Evaluation for Freesia
 
 ## The main Freesia implementation
-- main-algo-freesia.ipynb
+- [main-algo-freesia.ipynb](./main-algo-freesia.ipynb)
 
 ## Comparison with TEDA, SOM, LOF, and iForest
 - [comparison-teda.ipynb](./comparison-teda.ipynb)
