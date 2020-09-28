@@ -1,6 +1,9 @@
 # Evaluation for Freesia
 
-## The main Freesia implementation
+## Interphase
+- [remove-corr-feature-selection.ipynb](./remove-corr-feature-selection.ipynb)
+
+## Mitosis and Botnet Detection
 - [main-algo-freesia.ipynb](./main-algo-freesia.ipynb)
 
 ## Comparison with TEDA, SOM, LOF, and iForest
@@ -9,12 +12,9 @@
 - [comparison-lof.ipynb](./comparison-lof.ipynb)
 - [comparison-isolation-forest.ipynb](./comparison-isolation-forest.ipynb)
 
-## Effects of feature count
+## Effects of Feature Count
 - [feature-count-effects-feature-selection.ipynb](./feature-count-effects-feature-selection.ipynb)
 - [feature-count-effects-remove-corr.ipynb](./feature-count-effects-remove-corr.ipynb)
 
-## Epilogiphase
-- [remove-corr-feature-selection.ipynb](./remove-corr-feature-selection.ipynb)
-
-## Time complexity
+## Time Complexity Comparison
 - [time-complexity-comparison.ipynb](./time-complexity-comparison.ipynb)
